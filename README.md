@@ -1,2 +1,2 @@
 # Homelab
-#Day 1
+I've been wanting to restart my home lab again after about 2-3 years of not using it. I carried around this Dell Optiplex with me for 4 moves, 1 across NY state and 3 within NYC over 4 years and all it's been doing is collecting dust. Something within me the last week decided that I was serious this time and I was actually going to make something from nothing; so I up and splurged on a 15u rack to hold the Optiplex and a Cisco 3560CX 12 port switch. Let's hope I don't need to dedicate any more money or sanity towards my project!
